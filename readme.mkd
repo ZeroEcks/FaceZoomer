@@ -1,0 +1,10 @@
+# Facezoomer
+*I am so sorry for making this*
+
+Basically, put a photo with faces in the `pictures` folder, run the script, wait a second or two, get the cropped faces out of the folder. It sometimes fails (As can be seen in the test photos)
+
+Copyright of the supplied images goes to the copyright holders.
+
+I pulled this script togeather from a stack overflow answer, and some other stuff, there is almost no original code in here.
+
+Please be nice with this.
